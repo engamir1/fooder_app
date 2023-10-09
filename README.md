@@ -6,10 +6,9 @@ This project is a Flutter application About Foods.
 
 
 A few resources to get you started if this is your first Flutter project:
+![A picture screen shots 1](https://github.com/engamir1/fooder_app/blob/master/assets/Screenshot_1696894315.png)
+ 
+![A picture screen shots 2](https://github.com/engamir1/fooder_app/blob/master/assets/Screenshot_1696894347.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![A picture screen shots 3](https://github.com/engamir1/fooder_app/blob/master/assets/Screenshot_1696894354.png)
+ 
